@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.6068097
+color:
+  saturation: 0.1137805
+  lightness: 0.1809102
+  brandStrength: 1
+  brandColors:
+    - '#569697'
+    - '#1E1C1D'
+    - '#14434D'
+    - '#931118'
+    - '#91BEB5'
+  rhythmicContrast: 0.4086027
+name: Jnapol
