@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6068097
 color:
   saturation: 0.1137805
-  lightness: 0.1809102
   brandStrength: 1
+  lightness: 0.1809102
   brandColors:
-    - '#569697'
-    - '#1E1C1D'
-    - '#14434D'
-    - '#931118'
-    - '#91BEB5'
+    - '#314A2D'
+    - '#0D1E0E'
+    - '#46753F'
+    - '#81AE83'
+    - '#BDE497'
   rhythmicContrast: 0.4086027
+layout_spectrum: 0
 name: Jnapol
